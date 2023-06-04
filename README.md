@@ -14,9 +14,7 @@ N/A
 
 This challenged allowed me to improve my JavaScript skills, especially regarding Node.js/Express.js, React, MongoDB, and MERN stack.
 
-<a href="X">Deployed Website Link</a>
-
-![alt text](X)
+<a href="https://pguerra98.github.io/book_search_engine_pedro_guerra/">Deployed Website Link</a>
 
 ## Credits
 
