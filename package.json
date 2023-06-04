@@ -1,0 +1,19 @@
+{
+  "name": "book_search_engine_pedro_guerra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pguerra98/book_search_engine_pedro_guerra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pguerra98/book_search_engine_pedro_guerra/issues"
+  },
+  "homepage": "https://github.com/pguerra98/book_search_engine_pedro_guerra#readme"
+}
